@@ -7,5 +7,6 @@ add_executable(aoc
     days/day2/day2.cpp
     days/day3/day3.cpp
     days/day4/day4.cpp
+    days/day5/day5.cpp
     tools/benchmark.cpp
 )
