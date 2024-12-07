@@ -3,7 +3,7 @@
 Day6::Day6(){
 	std::cout << " ---- Day 6 ---- " << std::endl;
 
-    const std::string filePath = "../inputs/day6/input.txt";
+    const std::string filePath = "../inputs/day6/example.txt";
 
     readFile(filePath);
 	benchmark([this]() {this->part1();});
