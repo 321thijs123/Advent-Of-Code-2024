@@ -8,6 +8,7 @@ int main(int argc, char** argv){
 	Day3();
 	Day4();
 	Day5();
+	Day6();
 
 	return 0;
 }
